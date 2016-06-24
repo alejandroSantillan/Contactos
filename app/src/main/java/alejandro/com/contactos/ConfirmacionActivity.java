@@ -7,6 +7,8 @@ import android.support.v7.widget.AppCompatButton;
 import android.view.View;
 import android.widget.TextView;
 
+import alejandro.com.contactos.pojo.Contacto;
+
 public class ConfirmacionActivity extends AppCompatActivity {
 
     private TextView nombre;

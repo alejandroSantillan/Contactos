@@ -10,6 +10,16 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="alejandro.com.contactos.MainActivity">
 
+    <DatePicker
+        android:layout_width="wrap_content"
+        android:layout_height="110dp"
+        android:id="@+id/dpFechaNacimiento"
+        android:calendarViewShown="false"
+        android:datePickerMode="spinner"
+        android:paddingRight="@dimen/padding_right"
+        android:layout_gravity=""/>
+
+
 
     <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"

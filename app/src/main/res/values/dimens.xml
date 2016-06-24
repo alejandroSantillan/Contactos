@@ -5,7 +5,9 @@
     <dimen name="margin_confirmacion">20dp</dimen>
     <dimen name="margin_top">10dp</dimen>
     <dimen name="margin_bottom">10dp</dimen>
-    <dimen name="size_confirmar_datos">30dp</dimen>
+    <dimen name="size_confirmar_datos">25dp</dimen>
     <dimen name="margin_right">10dp</dimen>
     <dimen name="padding_right">10dp</dimen>
+    <dimen name="corner_radius_cardview">4dp</dimen>
+    <dimen name="elevation_action_bar">4dp</dimen>
 </resources>

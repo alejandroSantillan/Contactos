@@ -8,6 +8,8 @@ import android.support.v7.widget.AppCompatButton;
 import android.util.Log;
 import android.view.View;
 
+import alejandro.com.contactos.pojo.Contacto;
+
 public class MainActivity extends AppCompatActivity {
 
 
